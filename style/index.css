@@ -1,0 +1,33 @@
+body{
+    background-color: #fff;
+    font-family: sans-serif;
+}
+
+.text-biru{
+    color: #3A10E5;
+}
+
+.bg-biru{
+    background-color: #3A10E5;
+}
+
+.bg-kuning{
+    background-color: #facb3b;
+}
+
+.bg-footer{
+    background-color: #090E23;
+}
+
+.border-populer::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 8px; 
+    background-color: #facb3b;
+    opacity: 0.5; 
+  }
+
+
